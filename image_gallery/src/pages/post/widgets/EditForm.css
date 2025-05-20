@@ -1,0 +1,79 @@
+.edit-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 100px;
+    font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+}
+.edit {
+  margin-top: 60px;  
+}
+  
+  .form-group {
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  
+  .field-label {
+    font-weight: 600;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 6px;
+    text-align: left;
+  }
+  
+  .preview-image {
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .upload-button {
+    padding: 8px 16px;
+    border: 1px solid black;
+    background: white;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #333;
+    box-sizing: border-box;
+    margin-top: 4px;
+    font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+}
+  
+  textarea {
+    height: 110px;
+    resize: vertical;
+  }
+  
+  .note {
+    font-size: 12px;
+    color: #666;
+    margin-top: 4px;
+  }
+  
+  .save-button {
+    width: 40%;
+    padding: 12px 0;
+    border: 1px solid #000;
+    background-color: white;
+    color: #000;
+    font-size: 18px;
+    font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin: 40px auto 0;
+    display: block;
+    margin-top: 40px;
+  }
+  
+  .save-button:hover {
+    background-color: #f7f7f7;
+  }
+  

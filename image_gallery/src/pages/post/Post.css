@@ -1,0 +1,9 @@
+.post {
+    font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+    padding: 100px;
+
+    display: flex;
+    flex-direction: column;
+
+
+}

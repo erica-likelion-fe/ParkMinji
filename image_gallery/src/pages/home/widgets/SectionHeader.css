@@ -1,0 +1,12 @@
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+  
+  .red-bar {
+    width: 4px;
+    height: 24px;
+    background-color: red;
+    margin-right: 8px;
+  }
